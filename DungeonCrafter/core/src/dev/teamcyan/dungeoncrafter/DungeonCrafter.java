@@ -71,7 +71,7 @@ public class DungeonCrafter extends Game {
 	@Override
 	public void create () 
    {
-		this.setDebugOn(false);
+		this.setDebugOn(true);
 		this.model = new GameModel();
 		VisUI.load();
       

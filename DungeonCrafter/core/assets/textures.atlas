@@ -1,0 +1,698 @@
+
+textures.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eye/blink
+  rotate: false
+  xy: 152, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+eye/blink
+  rotate: false
+  xy: 169, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+eye/blink
+  rotate: false
+  xy: 68, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+eye/blink
+  rotate: false
+  xy: 127, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+eye/blink
+  rotate: false
+  xy: 169, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+eye/standing
+  rotate: false
+  xy: 373, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+eye/standing
+  rotate: false
+  xy: 390, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+eye/standing
+  rotate: false
+  xy: 407, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+eye/standing
+  rotate: false
+  xy: 407, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+eye/standing
+  rotate: false
+  xy: 424, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+eye/standing
+  rotate: false
+  xy: 424, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+eye/standing
+  rotate: false
+  xy: 441, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+eye/standing
+  rotate: false
+  xy: 441, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+eye/standing
+  rotate: false
+  xy: 458, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 9
+item/pebble
+  rotate: false
+  xy: 339, 79
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+item/projectile
+  rotate: false
+  xy: 51, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+item/rock
+  rotate: false
+  xy: 373, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+item/slime
+  rotate: false
+  xy: 348, 79
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+item/slingshot
+  rotate: false
+  xy: 357, 79
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+item/stick
+  rotate: false
+  xy: 366, 79
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+item/tree
+  rotate: false
+  xy: 169, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+player/attack
+  rotate: false
+  xy: 152, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/attack
+  rotate: false
+  xy: 51, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/standing
+  rotate: false
+  xy: 51, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/attack
+  rotate: false
+  xy: 127, 55
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+player/left
+  rotate: false
+  xy: 220, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/left
+  rotate: false
+  xy: 237, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/left
+  rotate: false
+  xy: 254, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+player/right
+  rotate: false
+  xy: 305, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/right
+  rotate: false
+  xy: 322, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/right
+  rotate: false
+  xy: 339, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+player/standing
+  rotate: false
+  xy: 390, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/swim_left
+  rotate: false
+  xy: 458, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/swim_left
+  rotate: false
+  xy: 475, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/swim_left
+  rotate: false
+  xy: 475, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+player/swim_right
+  rotate: false
+  xy: 492, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+player/swim_right
+  rotate: false
+  xy: 492, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+player/swim_right
+  rotate: false
+  xy: 152, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+slime/left
+  rotate: false
+  xy: 220, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+slime/left
+  rotate: false
+  xy: 237, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+slime/left
+  rotate: false
+  xy: 237, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+slime/left
+  rotate: false
+  xy: 254, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+slime/left
+  rotate: false
+  xy: 271, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+slime/left
+  rotate: false
+  xy: 271, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+slime/left
+  rotate: false
+  xy: 271, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+slime/left
+  rotate: false
+  xy: 288, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+slime/right
+  rotate: false
+  xy: 288, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+slime/right
+  rotate: false
+  xy: 305, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+slime/right
+  rotate: false
+  xy: 305, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+slime/right
+  rotate: false
+  xy: 322, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+slime/right
+  rotate: false
+  xy: 339, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+slime/right
+  rotate: false
+  xy: 356, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+slime/right
+  rotate: false
+  xy: 356, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+slime/right
+  rotate: false
+  xy: 356, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+tile/grass
+  rotate: false
+  xy: 186, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/grass_b
+  rotate: false
+  xy: 85, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/grass_decorated
+  rotate: false
+  xy: 186, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/grass_l
+  rotate: false
+  xy: 203, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/grass_r
+  rotate: false
+  xy: 102, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/grass_t
+  rotate: false
+  xy: 203, 88
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/wall
+  rotate: false
+  xy: 186, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tile/water
+  rotate: false
+  xy: 203, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tile/water
+  rotate: false
+  xy: 203, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 11
+tile/water
+  rotate: false
+  xy: 203, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 10
+tile/water
+  rotate: false
+  xy: 203, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 12
+tile/water
+  rotate: false
+  xy: 203, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 13
+tile/water
+  rotate: false
+  xy: 203, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 9
+tile/water
+  rotate: false
+  xy: 203, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+tile/water
+  rotate: false
+  xy: 203, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 8
+tile/water
+  rotate: false
+  xy: 203, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 7
+tile/water
+  rotate: false
+  xy: 220, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+tile/water
+  rotate: false
+  xy: 237, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+tile/water
+  rotate: false
+  xy: 254, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+tile/water
+  rotate: false
+  xy: 271, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+tile/water_t
+  rotate: false
+  xy: 288, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+tile/water_t
+  rotate: false
+  xy: 288, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+tile/water_t
+  rotate: false
+  xy: 305, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+tile/water_t
+  rotate: false
+  xy: 305, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+tile/water_t
+  rotate: false
+  xy: 322, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+tile/water_t
+  rotate: false
+  xy: 322, 71
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+ui/button
+  rotate: false
+  xy: 1, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/button_down
+  rotate: false
+  xy: 127, 97
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/heart
+  rotate: false
+  xy: 127, 29
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+ui/inventory_slot
+  rotate: false
+  xy: 26, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/special_slot
+  rotate: false
+  xy: 127, 72
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+ui/window_bg
+  rotate: false
+  xy: 1, 26
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1
+
+textures2.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+effect/particle
+  rotate: false
+  xy: 1, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+effect/particle
+  rotate: false
+  xy: 18, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+effect/particle
+  rotate: false
+  xy: 35, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+effect/particle
+  rotate: false
+  xy: 52, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 4
+effect/particle
+  rotate: false
+  xy: 69, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 5
+effect/particle
+  rotate: false
+  xy: 86, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 6
+effect/redtrans
+  rotate: false
+  xy: 1, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/small_particle
+  rotate: false
+  xy: 103, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 1
+effect/small_particle
+  rotate: false
+  xy: 120, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 2
+effect/small_particle
+  rotate: false
+  xy: 137, 5
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: 3
+effect/white
+  rotate: false
+  xy: 154, 20
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/whitetrans
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
